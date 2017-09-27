@@ -1,0 +1,4 @@
+com\als\springsecuritytest\controller\AdminController.class
+com\als\springsecuritytest\controller\DefaultController.class
+com\als\springsecuritytest\config\WebConfig.class
+com\als\springsecuritytest\config\WebSecurityConfig.class
